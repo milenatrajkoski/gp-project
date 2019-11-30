@@ -28,7 +28,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Administration Pan
 
 WebUI.click(findTestObject('Object Repository/Page_Administration Panel - Player Wizard/input_Please log-in_logon'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard/span_Players'))
+WebUI.click(findTestObject('Page_Dashboard/a_Players'))
 
 WebUI.click(findTestObject('Object Repository/Page_Dashboard/a_Search'))
 
