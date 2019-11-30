@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>BO Stage 2.15.0.13</name>
+   <name>Search User</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>e3a60efb-265f-410d-844a-7fd9450810ce</testCaseGuid>
