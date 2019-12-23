@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ProfileDetails</name>
+   <name>Portal</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>b47a6559-40ab-4512-b3ba-3857d68ee76b</testCaseGuid>
+   <testCaseGuid>c0060150-4707-415e-a753-5a332b93d75c</testCaseGuid>
 </TestCaseEntity>

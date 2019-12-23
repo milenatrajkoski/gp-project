@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginInPortal</name>
+   <tag>http://stage1.btobet.net/Login</tag>
+   <comment></comment>
+   <testCaseGuid>ef84e84e-3e36-45f3-a468-fff66e1e043b</testCaseGuid>
+</TestCaseEntity>

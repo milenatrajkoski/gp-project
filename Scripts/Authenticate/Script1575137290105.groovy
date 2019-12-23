@@ -23,5 +23,5 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 WebUI.openBrowser('')
 
 'Input username and password on authentication dialog.'
-WebUI.authenticate('http://stage1.btobet.net/', '', '', 12)
+WebUI.authenticate('http://test44:test444@stage1.btobet.net/', '', '', 12)
 
